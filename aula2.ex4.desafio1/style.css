@@ -1,0 +1,24 @@
+.capa{
+    background-image: 
+    url("./oceano3.jfif");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+}
+.botao{
+  display: block;        
+  width: 150px;         
+  margin: 0 auto;        
+  text-align: center; 
+}

@@ -1,0 +1,27 @@
+ .fundo {
+     background-color: #d32f2f;
+    display: flex;             /* Ativa o Flexbox */
+    flex-direction: column;    /* Coloca os itens um abaixo do outro */
+    align-items: center;       /* Centraliza horizontalmente */
+    text-align: center;        /* Centraliza o texto dentro dos parágrafos */
+    padding: 20px;             /* Dá um respiro nas bordas */
+     
+ }
+
+ h1 {
+     color: rgb(0, 8, 15);
+ }
+
+ h2 {
+     color: rgb(1, 8, 14);
+ }
+
+ p {
+     color: rgb(1, 8, 14);
+ }
+
+ iframe {
+     margin: 30px;
+    background-color: aliceblue;
+    padding: 25px;
+ }
